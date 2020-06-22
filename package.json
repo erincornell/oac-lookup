@@ -1,7 +1,7 @@
 {
-  "name": "node-js-getting-started",
-  "version": "0.3.0",
-  "description": "A sample Node.js app using Express 4",
+  "name": "oac-lookup",
+  "version": "1.0.0",
+  "description": "Oxnard auto center car lookup",
   "engines": {
     "node": "12.x"
   },
@@ -20,12 +20,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heroku/node-js-getting-started"
+    "url": "https://github.com/erincornell/oac-lookup"
   },
   "keywords": [
-    "node",
-    "heroku",
-    "express"
+    "oxnard",
+    "auto",
+    "car"
   ],
   "license": "MIT"
 }
